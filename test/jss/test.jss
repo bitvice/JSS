@@ -3,6 +3,7 @@
     "$cFgBody": "#eee",
     "$cFgHeading": "red",
 
+
     "body": {
         "color": "$cFgBody",
         "background": {
@@ -10,7 +11,7 @@
         },
         
         "h1": {
-            "color": "$vFgHeading",        
+            "color": "$cFgHeading",        
             "font": {
                 "size": "12px",
                 "weight": "bold"
